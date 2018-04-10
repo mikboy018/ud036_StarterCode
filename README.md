@@ -1,10 +1,11 @@
 Movie Trailer Website - Udacity Full Stack Web Developer Nanodegree Project 1
 9 APR 2018 - Mike Boyer - Boyer.Mike.E@gmail.com
 
-Developed for Python 2.7 with Chrome Web browser.
+Developed for Python 2.7 with Edge web browser.
 To use, make sure you have chrome installed.
-Retrieve from GitHub here:
-In IDLE, run entertainment_center.py - this opens the html file - fresh_tomatoes.html
+Retrieve from GitHub here: https://github.com/mikboy018/ud036_StarterCode
+In your web browser, open fresh_tomatoes.html
+To generate the fresh_tomatoes.html file yourself, open entertainment_center.py
 Enjoy
 Give me a passing grade ;)
 
